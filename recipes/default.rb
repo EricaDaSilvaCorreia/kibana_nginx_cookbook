@@ -4,7 +4,7 @@
 #
 # Copyright:: 2018, The Authors, All Rights Reserved.
 
-#====== Updae ========
+#====== Update ========
 
 apt_update 'update_sources' do
   action :update
